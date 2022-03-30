@@ -165,4 +165,13 @@ body {
   }
 }
 
+#unicorn p{
+  text-align: center;
+  color: white;
+}
+#unicorn span{
+  font-size: 20px;
+  font-weight: 700;
+}
+
 /*# sourceMappingURL=/style.e308ff8e.css.map */
